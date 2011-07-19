@@ -1,0 +1,3343 @@
+updateChessMenFromBoardPos:r
+static block called
+map:KING K
+map:QUEEN Q
+map:ROOK R
+map:KNIGHT N
+map:BISHOP B
+map:PAWN P
+updateChessMenFromBoardPos1
+piecetype:ROOK
+Piecer
+PieceTypeROOK
+updateChessMenFromBoardPos:n
+updateChessMenFromBoardPos2
+piecetype:KNIGHT
+Piecen
+PieceTypeKNIGHT
+updateChessMenFromBoardPos:b
+updateChessMenFromBoardPos3
+piecetype:BISHOP
+Pieceb
+PieceTypeBISHOP
+updateChessMenFromBoardPos:q
+updateChessMenFromBoardPos4
+piecetype:QUEEN
+Pieceq
+PieceTypeQUEEN
+updateChessMenFromBoardPos:k
+updateChessMenFromBoardPos5
+piecetype:KING
+Piecek
+PieceTypeKING
+updateChessMenFromBoardPos:b
+updateChessMenFromBoardPos6
+piecetype:BISHOP
+Pieceb
+PieceTypeBISHOP
+updateChessMenFromBoardPos:n
+updateChessMenFromBoardPos7
+piecetype:KNIGHT
+Piecen
+PieceTypeKNIGHT
+updateChessMenFromBoardPos:r
+updateChessMenFromBoardPos8
+piecetype:ROOK
+Piecer
+PieceTypeROOK
+updateChessMenFromBoardPos:p
+updateChessMenFromBoardPos9
+piecetype:PAWN
+Piecep
+PieceTypePAWN
+updateChessMenFromBoardPos:p
+updateChessMenFromBoardPos10
+piecetype:PAWN
+Piecep
+PieceTypePAWN
+updateChessMenFromBoardPos:p
+updateChessMenFromBoardPos11
+piecetype:PAWN
+Piecep
+PieceTypePAWN
+updateChessMenFromBoardPos:p
+updateChessMenFromBoardPos12
+piecetype:PAWN
+Piecep
+PieceTypePAWN
+updateChessMenFromBoardPos:p
+updateChessMenFromBoardPos13
+piecetype:PAWN
+Piecep
+PieceTypePAWN
+updateChessMenFromBoardPos:p
+updateChessMenFromBoardPos14
+piecetype:PAWN
+Piecep
+PieceTypePAWN
+updateChessMenFromBoardPos:p
+updateChessMenFromBoardPos15
+piecetype:PAWN
+Piecep
+PieceTypePAWN
+updateChessMenFromBoardPos:p
+updateChessMenFromBoardPos16
+piecetype:PAWN
+Piecep
+PieceTypePAWN
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:.
+updateChessMenFromBoardPos:P
+updateChessMenFromBoardPos17
+piecetype:PAWN
+PieceP
+PieceTypePAWN
+updateChessMenFromBoardPos:P
+updateChessMenFromBoardPos18
+piecetype:PAWN
+PieceP
+PieceTypePAWN
+updateChessMenFromBoardPos:P
+updateChessMenFromBoardPos19
+piecetype:PAWN
+PieceP
+PieceTypePAWN
+updateChessMenFromBoardPos:P
+updateChessMenFromBoardPos20
+piecetype:PAWN
+PieceP
+PieceTypePAWN
+updateChessMenFromBoardPos:P
+updateChessMenFromBoardPos21
+piecetype:PAWN
+PieceP
+PieceTypePAWN
+updateChessMenFromBoardPos:P
+updateChessMenFromBoardPos22
+piecetype:PAWN
+PieceP
+PieceTypePAWN
+updateChessMenFromBoardPos:P
+updateChessMenFromBoardPos23
+piecetype:PAWN
+PieceP
+PieceTypePAWN
+updateChessMenFromBoardPos:P
+updateChessMenFromBoardPos24
+piecetype:PAWN
+PieceP
+PieceTypePAWN
+updateChessMenFromBoardPos:R
+updateChessMenFromBoardPos25
+piecetype:ROOK
+PieceR
+PieceTypeROOK
+updateChessMenFromBoardPos:N
+updateChessMenFromBoardPos26
+piecetype:KNIGHT
+PieceN
+PieceTypeKNIGHT
+updateChessMenFromBoardPos:B
+updateChessMenFromBoardPos27
+piecetype:BISHOP
+PieceB
+PieceTypeBISHOP
+updateChessMenFromBoardPos:Q
+updateChessMenFromBoardPos28
+piecetype:QUEEN
+PieceQ
+PieceTypeQUEEN
+updateChessMenFromBoardPos:K
+updateChessMenFromBoardPos29
+piecetype:KING
+PieceK
+PieceTypeKING
+updateChessMenFromBoardPos:B
+updateChessMenFromBoardPos30
+piecetype:BISHOP
+PieceB
+PieceTypeBISHOP
+updateChessMenFromBoardPos:N
+updateChessMenFromBoardPos31
+piecetype:KNIGHT
+PieceN
+PieceTypeKNIGHT
+updateChessMenFromBoardPos:R
+updateChessMenFromBoardPos32
+piecetype:ROOK
+PieceR
+PieceTypeROOK
+[Event "F/S Return Match"]
+[Site "Belgrade, Serbia Yugoslavia|JUG"]
+[Date "1992.11.04"]
+[Round "29"]
+[White "Fischer, Robert J."]
+[Black "Spassky, Boris V."]
+[Result "1/2-1/2"]
+token: 1.
+token: e4
+readMove : e4 [ WHITE ]
+P: 4 , 4
+Piece : 0 5 : BISHOP BLACK
+Piece : 1 1 : PAWN BLACK
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 7 6 : KNIGHT WHITE
+Piece : 7 5 : BISHOP WHITE
+Piece : 6 3 : PAWN WHITE
+5 3
+4 3
+Piece : 7 1 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 6 4 : PAWN WHITE
+5 4
+4 4
+VALID : => 4 4 : 
+Move Read 44
+src_x :6
+src_y :4
+dest_x:4
+dest_y:4
+
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+. . . . . . . .
+P P P P . P P P
+R N B Q K B N R
+
+token: e5
+readMove : e5 [ BLACK ]
+P: 3 , 4
+Piece : 0 5 : BISHOP BLACK
+Piece : 1 1 : PAWN BLACK
+2 1
+3 1
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 7 6 : KNIGHT WHITE
+Piece : 7 5 : BISHOP WHITE
+Piece : 6 3 : PAWN WHITE
+Piece : 7 1 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 2 : PAWN BLACK
+2 2
+3 2
+Piece : 0 6 : KNIGHT BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 6 2 : PAWN WHITE
+Piece : 1 0 : PAWN BLACK
+2 0
+3 0
+Piece : 6 7 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 1 7 : PAWN BLACK
+2 7
+3 7
+Piece : 1 3 : PAWN BLACK
+2 3
+3 3
+Piece : 6 1 : PAWN WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+2 5
+3 5
+Piece : 0 3 : QUEEN BLACK
+Piece : 1 6 : PAWN BLACK
+2 6
+3 6
+Piece : 6 5 : PAWN WHITE
+Piece : 1 4 : PAWN BLACK
+2 4
+3 4
+VALID : => 3 4 : 
+Move Read 34
+src_x :1
+src_y :4
+dest_x:3
+dest_y:4
+
+r n b q k b n r
+p p p p . p p p
+. . . . . . . .
+. . . . p . . .
+. . . . P . . .
+. . . . . . . .
+P P P P . P P P
+R N B Q K B N R
+
+token: 2.
+token: Nf3
+readMove : Nf3 [ WHITE ]
+P: 5 , 5
+Piece : 0 5 : BISHOP BLACK
+Piece : 1 1 : PAWN BLACK
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 7 6 : KNIGHT WHITE
+6 4
+5 7
+5 5
+VALID : => 5 5 : 
+Move Read 55
+src_x :7
+src_y :6
+dest_x:5
+dest_y:5
+
+r n b q k b n r
+p p p p . p p p
+. . . . . . . .
+. . . . p . . .
+. . . . P . . .
+. . . . . N . .
+P P P P . P P P
+R N B Q K B . R
+
+token: Nc6
+readMove : Nc6 [ BLACK ]
+P: 2 , 2
+Piece : 0 5 : BISHOP BLACK
+Piece : 1 1 : PAWN BLACK
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 7 5 : BISHOP WHITE
+Piece : 6 3 : PAWN WHITE
+Piece : 7 1 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 2 : PAWN BLACK
+Piece : 0 6 : KNIGHT BLACK
+1 4
+2 7
+2 5
+Piece : 7 0 : ROOK WHITE
+Piece : 6 2 : PAWN WHITE
+Piece : 1 0 : PAWN BLACK
+Piece : 6 7 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 1 7 : PAWN BLACK
+Piece : 1 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 1 6 : PAWN BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 6 0 : PAWN WHITE
+Piece : 7 2 : BISHOP WHITE
+Piece : 0 1 : KNIGHT BLACK
+2 2
+VALID : => 2 2 : 
+Move Read 22
+src_x :0
+src_y :1
+dest_x:2
+dest_y:2
+
+r . b q k b n r
+p p p p . p p p
+. . n . . . . .
+. . . . p . . .
+. . . . P . . .
+. . . . . N . .
+P P P P . P P P
+R N B Q K B . R
+
+token: 3.
+token: Bb5
+readMove : Bb5 [ WHITE ]
+P: 3 , 1
+Piece : 0 5 : BISHOP BLACK
+Piece : 1 1 : PAWN BLACK
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 2 2 : KNIGHT BLACK
+Piece : 7 5 : BISHOP WHITE
+6 4
+5 3
+4 2
+3 1
+VALID : => 3 1 : 
+Move Read 31
+src_x :7
+src_y :5
+dest_x:3
+dest_y:1
+
+r . b q k b n r
+p p p p . p p p
+. . n . . . . .
+. B . . p . . .
+. . . . P . . .
+. . . . . N . .
+P P P P . P P P
+R N B Q K . . R
+
+token: 3...
+token: a6
+readMove : a6 [ BLACK ]
+P: 2 , 0
+Piece : 0 5 : BISHOP BLACK
+Piece : 1 1 : PAWN BLACK
+2 1
+3 1
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 2 2 : KNIGHT BLACK
+Piece : 6 3 : PAWN WHITE
+Piece : 7 1 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 2 : PAWN BLACK
+3 2
+Piece : 0 6 : KNIGHT BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 6 2 : PAWN WHITE
+Piece : 1 0 : PAWN BLACK
+2 0
+VALID : => 2 0 : 
+Move Read 20
+src_x :1
+src_y :0
+dest_x:2
+dest_y:0
+
+r . b q k b n r
+. p p p . p p p
+p . n . . . . .
+. B . . p . . .
+. . . . P . . .
+. . . . . N . .
+P P P P . P P P
+R N B Q K . . R
+
+token: 4.
+token: Ba4
+readMove : Ba4 [ WHITE ]
+P: 4 , 0
+Piece : 0 5 : BISHOP BLACK
+Piece : 1 1 : PAWN BLACK
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 2 2 : KNIGHT BLACK
+Piece : 6 3 : PAWN WHITE
+Piece : 7 1 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 2 : PAWN BLACK
+Piece : 0 6 : KNIGHT BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 6 2 : PAWN WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 6 7 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 1 7 : PAWN BLACK
+Piece : 1 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 1 6 : PAWN BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 6 0 : PAWN WHITE
+Piece : 3 1 : BISHOP WHITE
+2 0
+2 2
+4 0
+VALID : => 4 0 : 
+Move Read 40
+src_x :3
+src_y :1
+dest_x:4
+dest_y:0
+
+r . b q k b n r
+. p p p . p p p
+p . n . . . . .
+. . . . p . . .
+B . . . P . . .
+. . . . . N . .
+P P P P . P P P
+R N B Q K . . R
+
+token: Nf6
+readMove : Nf6 [ BLACK ]
+P: 2 , 5
+Piece : 0 5 : BISHOP BLACK
+Piece : 1 1 : PAWN BLACK
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 2 2 : KNIGHT BLACK
+3 0
+1 4
+1 0
+4 3
+4 1
+0 1
+Piece : 6 3 : PAWN WHITE
+Piece : 7 1 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 2 : PAWN BLACK
+Piece : 0 6 : KNIGHT BLACK
+1 4
+2 7
+2 5
+VALID : => 2 5 : 
+Move Read 25
+src_x :0
+src_y :6
+dest_x:2
+dest_y:5
+
+r . b q k b . r
+. p p p . p p p
+p . n . . n . .
+. . . . p . . .
+B . . . P . . .
+. . . . . N . .
+P P P P . P P P
+R N B Q K . . R
+
+token: 5.
+token: O-O
+readMove : O-O [ WHITE ]
+
+r . b q k b . r
+. p p p . p p p
+p . n . . n . .
+. . . . p . . .
+B . . . P . . .
+. . . . . N . .
+P P P P . P P P
+R N B Q R . . K
+
+token: Be7
+readMove : Be7 [ BLACK ]
+P: 1 , 4
+Piece : 0 5 : BISHOP BLACK
+1 4
+VALID : => 1 4 : 
+Move Read 14
+src_x :0
+src_y :5
+dest_x:1
+dest_y:4
+
+r . b q k . . r
+. p p p b p p p
+p . n . . n . .
+. . . . p . . .
+B . . . P . . .
+. . . . . N . .
+P P P P . P P P
+R N B Q R . . K
+
+token: 6.
+token: Re1
+readMove : Re1 [ WHITE ]
+P: 7 , 4
+Piece : 1 1 : PAWN BLACK
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 2 2 : KNIGHT BLACK
+Piece : 6 3 : PAWN WHITE
+Piece : 7 1 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+7 6
+7 5
+Piece : 1 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 6 2 : PAWN WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 6 7 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 1 7 : PAWN BLACK
+Piece : 1 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 6 0 : PAWN WHITE
+Piece : 4 0 : BISHOP WHITE
+Piece : 7 2 : BISHOP WHITE
+Piece : 7 4 : ROOK WHITE
+6 4
+5 4
+7 5
+7 6
+Piece : 5 5 : KNIGHT WHITE
+Piece : 6 6 : PAWN WHITE
+Piece : 0 7 : ROOK BLACK
+Could not make a valid move to sqaure Re1for playerWHITE
+Could not read a valid move !
+
+r . b q k . . r
+. p p p b p p p
+p . n . . n . .
+. . . . p . . .
+B . . . P . . .
+. . . . . N . .
+P P P P . P P P
+R N B Q R . . K
+
+token: b5
+readMove : b5 [ BLACK ]
+P: 3 , 1
+Piece : 1 1 : PAWN BLACK
+2 1
+3 1
+VALID : => 3 1 : 
+Move Read 31
+src_x :1
+src_y :1
+dest_x:3
+dest_y:1
+
+r . b q k . . r
+. . p p b p p p
+p . n . . n . .
+. p . . p . . .
+B . . . P . . .
+. . . . . N . .
+P P P P . P P P
+R N B Q R . . K
+
+token: 7.
+token: Bb3
+readMove : Bb3 [ WHITE ]
+P: 5 , 1
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 2 2 : KNIGHT BLACK
+Piece : 6 3 : PAWN WHITE
+Piece : 7 1 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 6 2 : PAWN WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 6 7 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 1 7 : PAWN BLACK
+Piece : 1 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 6 0 : PAWN WHITE
+Piece : 4 0 : BISHOP WHITE
+3 1
+5 1
+VALID : => 5 1 : 
+Move Read 51
+src_x :4
+src_y :0
+dest_x:5
+dest_y:1
+
+r . b q k . . r
+. . p p b p p p
+p . n . . n . .
+. p . . p . . .
+. . . . P . . .
+. B . . . N . .
+P P P P . P P P
+R N B Q R . . K
+
+token: d6
+readMove : d6 [ BLACK ]
+P: 2 , 3
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 2 2 : KNIGHT BLACK
+Piece : 6 3 : PAWN WHITE
+Piece : 7 1 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 2 : PAWN BLACK
+3 2
+Piece : 7 0 : ROOK WHITE
+Piece : 6 2 : PAWN WHITE
+Piece : 2 0 : PAWN BLACK
+3 0
+Piece : 6 7 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 1 7 : PAWN BLACK
+2 7
+3 7
+Piece : 1 3 : PAWN BLACK
+2 3
+VALID : => 2 3 : 
+Move Read 23
+src_x :1
+src_y :3
+dest_x:2
+dest_y:3
+
+r . b q k . . r
+. . p . b p p p
+p . n p . n . .
+. p . . p . . .
+. . . . P . . .
+. B . . . N . .
+P P P P . P P P
+R N B Q R . . K
+
+token: 8.
+token: c3
+readMove : c3 [ WHITE ]
+P: 5 , 2
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 2 2 : KNIGHT BLACK
+Piece : 6 3 : PAWN WHITE
+5 3
+4 3
+Piece : 7 1 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 6 2 : PAWN WHITE
+5 2
+VALID : => 5 2 : 
+Move Read 52
+src_x :6
+src_y :2
+dest_x:5
+dest_y:2
+
+r . b q k . . r
+. . p . b p p p
+p . n p . n . .
+. p . . p . . .
+. . . . P . . .
+. B P . . N . .
+P P . P . P P P
+R N B Q R . . K
+
+token: O-O
+readMove : O-O [ BLACK ]
+
+r . b q k . . r
+. . p . b p p p
+p . n p . n . .
+. p . . p . . .
+. . . . P . . .
+. B P . . N . .
+P P . P . P P P
+R N B Q R . . K
+
+token: 9.
+token: h3
+readMove : h3 [ WHITE ]
+P: 5 , 7
+Piece : 5 2 : PAWN WHITE
+4 2
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 2 2 : KNIGHT BLACK
+Piece : 6 3 : PAWN WHITE
+5 3
+4 3
+Piece : 7 1 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 6 7 : PAWN WHITE
+5 7
+VALID : => 5 7 : 
+Move Read 57
+src_x :6
+src_y :7
+dest_x:5
+dest_y:7
+
+r . b q k . . r
+. . p . b p p p
+p . n p . n . .
+. p . . p . . .
+. . . . P . . .
+. B P . . N . P
+P P . P . P P .
+R N B Q R . . K
+
+token: Nb8
+readMove : Nb8 [ BLACK ]
+P: 0 , 1
+Piece : 5 2 : PAWN WHITE
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 2 2 : KNIGHT BLACK
+3 0
+1 0
+4 3
+4 1
+0 1
+VALID : => 0 1 : 
+Move Read 01
+src_x :2
+src_y :2
+dest_x:0
+dest_y:1
+
+r n b q k . . r
+. . p . b p p p
+p . . p . n . .
+. p . . p . . .
+. . . . P . . .
+. B P . . N . P
+P P . P . P P .
+R N B Q R . . K
+
+token: 10.
+token: d4
+readMove : d4 [ WHITE ]
+P: 4 , 3
+Piece : 5 2 : PAWN WHITE
+4 2
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 6 3 : PAWN WHITE
+5 3
+4 3
+VALID : => 4 3 : 
+Move Read 43
+src_x :6
+src_y :3
+dest_x:4
+dest_y:3
+
+r n b q k . . r
+. . p . b p p p
+p . . p . n . .
+. p . . p . . .
+. . . P P . . .
+. B P . . N . P
+P P . . . P P .
+R N B Q R . . K
+
+token: Nbd7
+readMove : Nbd7 [ BLACK ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n b q k . . r
+. . p . b p p p
+p . . p . n . .
+. p . . p . . .
+. . . P P . . .
+. B P . . N . P
+P P . . . P P .
+R N B Q R . . K
+
+token: 11.
+token: c4
+readMove : c4 [ WHITE ]
+P: 4 , 2
+Piece : 5 2 : PAWN WHITE
+4 2
+VALID : => 4 2 : 
+Move Read 42
+src_x :5
+src_y :2
+dest_x:4
+dest_y:2
+
+r n b q k . . r
+. . p . b p p p
+p . . p . n . .
+. p . . p . . .
+. . P P P . . .
+. B . . . N . P
+P P . . . P P .
+R N B Q R . . K
+
+token: c6
+readMove : c6 [ BLACK ]
+P: 2 , 2
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+4 3
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 2 : PAWN BLACK
+2 2
+VALID : => 2 2 : 
+Move Read 22
+src_x :1
+src_y :2
+dest_x:2
+dest_y:2
+
+r n b q k . . r
+. . . . b p p p
+p . p p . n . .
+. p . . p . . .
+. . P P P . . .
+. B . . . N . P
+P P . . . P P .
+R N B Q R . . K
+
+token: 12.
+token: cxb5
+readMove : cxb5 [ WHITE ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n b q k . . r
+. . . . b p p p
+p . p p . n . .
+. p . . p . . .
+. . P P P . . .
+. B . . . N . P
+P P . . . P P .
+R N B Q R . . K
+
+token: axb5
+readMove : axb5 [ BLACK ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n b q k . . r
+. . . . b p p p
+p . p p . n . .
+. p . . p . . .
+. . P P P . . .
+. B . . . N . P
+P P . . . P P .
+R N B Q R . . K
+
+token: 13.
+token: Nc3
+readMove : Nc3 [ WHITE ]
+P: 5 , 2
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+Piece : 7 1 : KNIGHT WHITE
+6 3
+5 2
+VALID : => 5 2 : 
+Move Read 52
+src_x :7
+src_y :1
+dest_x:5
+dest_y:2
+
+r n b q k . . r
+. . . . b p p p
+p . p p . n . .
+. p . . p . . .
+. . P P P . . .
+. B N . . N . P
+P P . . . P P .
+R . B Q R . . K
+
+token: Bb7
+readMove : Bb7 [ BLACK ]
+P: 1 , 1
+Piece : 7 4 : KING WHITE
+Piece : 0 2 : BISHOP BLACK
+1 1
+VALID : => 1 1 : 
+Move Read 11
+src_x :0
+src_y :2
+dest_x:1
+dest_y:1
+
+r n . q k . . r
+. b . . b p p p
+p . p p . n . .
+. p . . p . . .
+. . P P P . . .
+. B N . . N . P
+P P . . . P P .
+R . B Q R . . K
+
+token: 14.
+token: Bg5
+readMove : Bg5 [ WHITE ]
+P: 3 , 6
+Piece : 7 4 : KING WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 1 7 : PAWN BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 5 2 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+4 0
+6 2
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 4 2 : PAWN WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 6 0 : PAWN WHITE
+Piece : 5 7 : PAWN WHITE
+Piece : 7 2 : BISHOP WHITE
+6 3
+5 4
+4 5
+3 6
+VALID : => 3 6 : 
+Move Read 36
+src_x :7
+src_y :2
+dest_x:3
+dest_y:6
+
+r n . q k . . r
+. b . . b p p p
+p . p p . n . .
+. p . . p . B .
+. . P P P . . .
+. B N . . N . P
+P P . . . P P .
+R . . Q R . . K
+
+token: b4
+readMove : b4 [ BLACK ]
+P: 4 , 1
+Piece : 7 4 : KING WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+4 3
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+3 0
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 1 7 : PAWN BLACK
+2 7
+3 7
+Piece : 2 3 : PAWN BLACK
+3 3
+Piece : 6 1 : PAWN WHITE
+Piece : 5 2 : KNIGHT WHITE
+Piece : 3 6 : BISHOP WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+3 5
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+2 6
+3 6
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 4 2 : PAWN WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 6 0 : PAWN WHITE
+Piece : 5 7 : PAWN WHITE
+Piece : 3 1 : PAWN BLACK
+4 1
+VALID : => 4 1 : 
+Move Read 41
+src_x :3
+src_y :1
+dest_x:4
+dest_y:1
+
+r n . q k . . r
+. b . . b p p p
+p . p p . n . .
+. . . . p . B .
+. p P P P . . .
+. B N . . N . P
+P P . . . P P .
+R . . Q R . . K
+
+token: 15.
+token: Nb1
+readMove : Nb1 [ WHITE ]
+P: 7 , 1
+Piece : 7 4 : KING WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 1 7 : PAWN BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 5 2 : KNIGHT WHITE
+6 4
+4 0
+7 1
+VALID : => 7 1 : 
+Move Read 71
+src_x :5
+src_y :2
+dest_x:7
+dest_y:1
+
+r n . q k . . r
+. b . . b p p p
+p . p p . n . .
+. . . . p . B .
+. p P P P . . .
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: h6
+readMove : h6 [ BLACK ]
+P: 2 , 7
+Piece : 7 4 : KING WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+4 3
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+3 0
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 1 7 : PAWN BLACK
+2 7
+VALID : => 2 7 : 
+Move Read 27
+src_x :1
+src_y :7
+dest_x:2
+dest_y:7
+
+r n . q k . . r
+. b . . b p p .
+p . p p . n . p
+. . . . p . B .
+. p P P P . . .
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 16.
+token: Bh4
+readMove : Bh4 [ WHITE ]
+P: 4 , 7
+Piece : 7 4 : KING WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 3 6 : BISHOP WHITE
+2 5
+2 7
+4 5
+5 4
+6 3
+7 2
+4 7
+VALID : => 4 7 : 
+Move Read 47
+src_x :3
+src_y :6
+dest_x:4
+dest_y:7
+
+r n . q k . . r
+. b . . b p p .
+p . p p . n . p
+. . . . p . . .
+. p P P P . . B
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: c5
+readMove : c5 [ BLACK ]
+P: 3 , 2
+Piece : 7 4 : KING WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+4 3
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+3 0
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+3 3
+Piece : 6 1 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+3 7
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+3 5
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+2 6
+3 6
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 6 0 : PAWN WHITE
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 5 5 : KNIGHT WHITE
+Piece : 6 6 : PAWN WHITE
+Piece : 2 2 : PAWN BLACK
+3 2
+VALID : => 3 2 : 
+Move Read 32
+src_x :2
+src_y :2
+dest_x:3
+dest_y:2
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . p . . .
+. p P P P . . B
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 17.
+token: dxe5
+readMove : dxe5 [ WHITE ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . p . . .
+. p P P P . . B
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: Nxe4
+readMove : Nxe4 [ BLACK ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . p . . .
+. p P P P . . B
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 18.
+token: Bxe7
+readMove : Bxe7 [ WHITE ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . p . . .
+. p P P P . . B
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: Qxe7
+readMove : Qxe7 [ BLACK ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . p . . .
+. p P P P . . B
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 19.
+token: exd6
+readMove : exd6 [ WHITE ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . p . . .
+. p P P P . . B
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: Qf6
+readMove : Qf6 [ BLACK ]
+P: 2 , 5
+Piece : 7 4 : KING WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+0 2
+1 3
+0 2
+1 3
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 6 0 : PAWN WHITE
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 5 5 : KNIGHT WHITE
+Piece : 6 6 : PAWN WHITE
+Piece : 0 7 : ROOK BLACK
+Could not make a valid move to sqaure Qf6for playerBLACK
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . p . . .
+. p P P P . . B
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 20.
+token: Nbd2
+readMove : Nbd2 [ WHITE ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . p . . .
+. p P P P . . B
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: Nxd6
+readMove : Nxd6 [ BLACK ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . p . . .
+. p P P P . . B
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 21.
+token: Nc4
+readMove : Nc4 [ WHITE ]
+P: 4 , 2
+Piece : 7 4 : KING WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+6 3
+5 2
+5 0
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 6 0 : PAWN WHITE
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 5 5 : KNIGHT WHITE
+6 7
+6 3
+7 6
+3 6
+3 4
+Piece : 6 6 : PAWN WHITE
+Piece : 0 7 : ROOK BLACK
+Could not make a valid move to sqaure Nc4for playerWHITE
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . p . . .
+. p P P P . . B
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: Nxc4
+readMove : Nxc4 [ BLACK ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . p . . .
+. p P P P . . B
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 22.
+token: Bxc4
+readMove : Bxc4 [ WHITE ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . p . . .
+. p P P P . . B
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: Nb6
+readMove : Nb6 [ BLACK ]
+P: 2 , 1
+Piece : 7 4 : KING WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 2 5 : KNIGHT BLACK
+3 7
+3 3
+1 7
+1 3
+4 6
+4 4
+0 6
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+1 3
+2 2
+Piece : 6 0 : PAWN WHITE
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 5 5 : KNIGHT WHITE
+Piece : 6 6 : PAWN WHITE
+Piece : 0 7 : ROOK BLACK
+Could not make a valid move to sqaure Nb6for playerBLACK
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . p . . .
+. p P P P . . B
+. B . . . N . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 23.
+token: Ne5
+readMove : Ne5 [ WHITE ]
+P: 3 , 4
+Piece : 7 4 : KING WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+6 3
+5 2
+5 0
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 6 0 : PAWN WHITE
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 5 5 : KNIGHT WHITE
+6 7
+6 3
+7 6
+3 6
+3 4
+VALID : => 3 4 : 
+Move Read 34
+src_x :5
+src_y :5
+dest_x:3
+dest_y:4
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+. B . . . . . P
+P P . . . P P .
+R N . Q R . . K
+
+token: Rae8
+readMove : Rae8 [ BLACK ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+. B . . . . . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 24.
+token: Bxf7+
+readMove : Bxf7+ [ WHITE ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+. B . . . . . P
+P P . . . P P .
+R N . Q R . . K
+
+token: Rxf7
+readMove : Rxf7 [ BLACK ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+. B . . . . . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 25.
+token: Nxf7
+readMove : Nxf7 [ WHITE ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+. B . . . . . P
+P P . . . P P .
+R N . Q R . . K
+
+token: Rxe1+
+readMove : Rxe1+ [ BLACK ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+. B . . . . . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 26.
+token: Qxe1
+readMove : Qxe1 [ WHITE ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+. B . . . . . P
+P P . . . P P .
+R N . Q R . . K
+
+token: Kxf7
+readMove : Kxf7 [ BLACK ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+. B . . . . . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 27.
+token: Qe3
+readMove : Qe3 [ WHITE ]
+P: 5 , 4
+Piece : 7 4 : KING WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+6 3
+5 3
+7 2
+6 3
+5 3
+7 2
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 6 0 : PAWN WHITE
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 6 6 : PAWN WHITE
+Piece : 0 7 : ROOK BLACK
+Could not make a valid move to sqaure Qe3for playerWHITE
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+. B . . . . . P
+P P . . . P P .
+R N . Q R . . K
+
+token: Qg5
+readMove : Qg5 [ BLACK ]
+P: 3 , 6
+Piece : 7 4 : KING WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+0 2
+1 3
+0 2
+1 3
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 6 0 : PAWN WHITE
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 6 6 : PAWN WHITE
+Piece : 0 7 : ROOK BLACK
+Could not make a valid move to sqaure Qg5for playerBLACK
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+. B . . . . . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 28.
+token: Qxg5
+readMove : Qxg5 [ WHITE ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+. B . . . . . P
+P P . . . P P .
+R N . Q R . . K
+
+token: hxg5
+readMove : hxg5 [ BLACK ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+. B . . . . . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 29.
+token: b3
+readMove : b3 [ WHITE ]
+P: 5 , 1
+Piece : 7 4 : KING WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+3 3
+3 2
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+4 1
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+5 5
+4 5
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 6 0 : PAWN WHITE
+5 0
+4 0
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 6 6 : PAWN WHITE
+5 6
+4 6
+Piece : 0 7 : ROOK BLACK
+Could not make a valid move to sqaure b3for playerWHITE
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+. B . . . . . P
+P P . . . P P .
+R N . Q R . . K
+
+token: Ke6
+readMove : Ke6 [ BLACK ]
+P: 2 , 4
+Piece : 7 4 : KING WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+0 5
+1 3
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 6 0 : PAWN WHITE
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 6 6 : PAWN WHITE
+Piece : 0 7 : ROOK BLACK
+Could not make a valid move to sqaure Ke6for playerBLACK
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+. B . . . . . P
+P P . . . P P .
+R N . Q R . . K
+
+token: 30.
+token: a3
+readMove : a3 [ WHITE ]
+P: 5 , 0
+Piece : 7 4 : KING WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+3 3
+3 2
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+4 1
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+5 5
+4 5
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 6 0 : PAWN WHITE
+5 0
+VALID : => 5 0 : 
+Move Read 50
+src_x :6
+src_y :0
+dest_x:5
+dest_y:0
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+P B . . . . . P
+. P . . . P P .
+R N . Q R . . K
+
+token: Kd6
+readMove : Kd6 [ BLACK ]
+P: 2 , 3
+Piece : 7 4 : KING WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+0 5
+1 3
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 6 6 : PAWN WHITE
+Piece : 0 7 : ROOK BLACK
+Could not make a valid move to sqaure Kd6for playerBLACK
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+P B . . . . . P
+. P . . . P P .
+R N . Q R . . K
+
+token: 31.
+token: axb4
+readMove : axb4 [ WHITE ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+P B . . . . . P
+. P . . . P P .
+R N . Q R . . K
+
+token: cxb4
+readMove : cxb4 [ BLACK ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+P B . . . . . P
+. P . . . P P .
+R N . Q R . . K
+
+token: 32.
+token: Ra5
+readMove : Ra5 [ WHITE ]
+P: 3 , 0
+Piece : 7 4 : KING WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+6 7
+7 6
+7 5
+Piece : 3 2 : PAWN BLACK
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+6 0
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 2 5 : KNIGHT BLACK
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+6 4
+5 4
+7 5
+7 6
+Piece : 6 6 : PAWN WHITE
+Piece : 0 7 : ROOK BLACK
+Could not make a valid move to sqaure Ra5for playerWHITE
+Could not read a valid move !
+
+r n . q k . . r
+. b . . b p p .
+p . . p . n . p
+. . p . N . . .
+. p P P P . . B
+P B . . . . . P
+. P . . . P P .
+R N . Q R . . K
+
+token: Nd5
+readMove : Nd5 [ BLACK ]
+P: 3 , 3
+Piece : 7 4 : KING WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 2 5 : KNIGHT BLACK
+3 7
+3 3
+VALID : => 3 3 : 
+Move Read 33
+src_x :2
+src_y :5
+dest_x:3
+dest_y:3
+
+r n . q k . . r
+. b . . b p p .
+p . . p . . . p
+. . p n N . . .
+. p P P P . . B
+P B . . . . . P
+. P . . . P P .
+R N . Q R . . K
+
+token: 33.
+token: f3
+readMove : f3 [ WHITE ]
+P: 5 , 5
+Piece : 7 4 : KING WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+4 0
+4 1
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+3 3
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 1 1 : BISHOP BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 3 3 : KNIGHT BLACK
+Piece : 4 3 : PAWN WHITE
+3 2
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+4 1
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 6 5 : PAWN WHITE
+5 5
+VALID : => 5 5 : 
+Move Read 55
+src_x :6
+src_y :5
+dest_x:5
+dest_y:5
+
+r n . q k . . r
+. b . . b p p .
+p . . p . . . p
+. . p n N . . .
+. p P P P . . B
+P B . . . P . P
+. P . . . . P .
+R N . Q R . . K
+
+token: Bc8
+readMove : Bc8 [ BLACK ]
+P: 0 , 2
+Piece : 7 4 : KING WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 1 1 : BISHOP BLACK
+0 2
+VALID : => 0 2 : 
+Move Read 02
+src_x :1
+src_y :1
+dest_x:0
+dest_y:2
+
+r n b q k . . r
+. . . . b p p .
+p . . p . . . p
+. . p n N . . .
+. p P P P . . B
+P B . . . P . P
+. P . . . . P .
+R N . Q R . . K
+
+token: 34.
+token: Kf2
+readMove : Kf2 [ WHITE ]
+P: 6 , 5
+Piece : 7 4 : KING WHITE
+6 3
+6 4
+6 5
+VALID : => 6 5 : 
+Move Read 65
+src_x :7
+src_y :4
+dest_x:6
+dest_y:5
+
+r n b q k . . r
+. . . . b p p .
+p . . p . . . p
+. . p n N . . .
+. p P P P . . B
+P B . . . P . P
+. P . . . R P .
+R N . Q . . . K
+
+token: Bf5
+readMove : Bf5 [ BLACK ]
+P: 3 , 5
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 6 5 : KING WHITE
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 0 2 : BISHOP BLACK
+1 1
+1 3
+2 4
+3 5
+VALID : => 3 5 : 
+Move Read 35
+src_x :0
+src_y :2
+dest_x:3
+dest_y:5
+
+r n . q k . . r
+. . . . b p p .
+p . . p . . . p
+. . p n N b . .
+. p P P P . . B
+P B . . . P . P
+. P . . . R P .
+R N . Q . . . K
+
+token: 35.
+token: Ra7
+readMove : Ra7 [ WHITE ]
+P: 1 , 0
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 6 5 : KING WHITE
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+6 7
+7 6
+7 5
+7 4
+Piece : 3 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+6 0
+Piece : 2 0 : PAWN BLACK
+Piece : 3 3 : KNIGHT BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 3 5 : BISHOP BLACK
+Piece : 5 5 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+Piece : 1 4 : BISHOP BLACK
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+6 4
+5 4
+7 5
+7 6
+Piece : 6 6 : PAWN WHITE
+Piece : 0 7 : ROOK BLACK
+Could not make a valid move to sqaure Ra7for playerWHITE
+Could not read a valid move !
+
+r n . q k . . r
+. . . . b p p .
+p . . p . . . p
+. . p n N b . .
+. p P P P . . B
+P B . . . P . P
+. P . . . R P .
+R N . Q . . . K
+
+token: g6
+readMove : g6 [ BLACK ]
+P: 2 , 6
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+4 3
+Piece : 6 5 : KING WHITE
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+4 3
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+3 0
+Piece : 3 3 : KNIGHT BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+3 4
+Piece : 6 1 : PAWN WHITE
+Piece : 3 5 : BISHOP BLACK
+Piece : 5 5 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+3 7
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+2 5
+3 5
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 6 : PAWN BLACK
+2 6
+VALID : => 2 6 : 
+Move Read 26
+src_x :1
+src_y :6
+dest_x:2
+dest_y:6
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p n N b . .
+. p P P P . . B
+P B . . . P . P
+. P . . . R P .
+R N . Q . . . K
+
+token: 36.
+token: Ra6+
+readMove : Ra6+ [ WHITE ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p n N b . .
+. p P P P . . B
+P B . . . P . P
+. P . . . R P .
+R N . Q . . . K
+
+token: Kc5
+readMove : Kc5 [ BLACK ]
+P: 3 , 2
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 6 5 : KING WHITE
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 2 6 : PAWN BLACK
+Piece : 3 3 : KNIGHT BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 3 5 : BISHOP BLACK
+Piece : 5 5 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+0 5
+1 3
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 4 : BISHOP BLACK
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 6 6 : PAWN WHITE
+Piece : 0 7 : ROOK BLACK
+Could not make a valid move to sqaure Kc5for playerBLACK
+Could not read a valid move !
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p n N b . .
+. p P P P . . B
+P B . . . P . P
+. P . . . R P .
+R N . Q . . . K
+
+token: 37.
+token: Ke1
+readMove : Ke1 [ WHITE ]
+P: 7 , 4
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 6 5 : KING WHITE
+5 4
+5 6
+6 4
+7 4
+VALID : => 7 4 : 
+Move Read 74
+src_x :6
+src_y :5
+dest_x:7
+dest_y:4
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p n N b . .
+. p P P P . . B
+P B . . . P . P
+. P . . . . P .
+R N . Q R . . K
+
+token: Nf4
+readMove : Nf4 [ BLACK ]
+P: 4 , 5
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 2 6 : PAWN BLACK
+Piece : 3 3 : KNIGHT BLACK
+4 5
+VALID : => 4 5 : 
+Move Read 45
+src_x :3
+src_y :3
+dest_x:4
+dest_y:5
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p . N b . .
+. p P P P n . B
+P B . . . P . P
+. P . . . . P .
+R N . Q R . . K
+
+token: 38.
+token: g3
+readMove : g3 [ WHITE ]
+P: 5 , 6
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+4 0
+4 1
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+3 5
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 2 6 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+3 3
+3 2
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+4 1
+Piece : 3 5 : BISHOP BLACK
+Piece : 5 5 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 7 4 : KING WHITE
+Piece : 1 4 : BISHOP BLACK
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 6 6 : PAWN WHITE
+5 6
+VALID : => 5 6 : 
+Move Read 56
+src_x :6
+src_y :6
+dest_x:5
+dest_y:6
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p . N b . .
+. p P P P n . B
+P B . . . P P P
+. P . . . . . .
+R N . Q R . . K
+
+token: Nxh3
+readMove : Nxh3 [ BLACK ]
+java.lang.StringIndexOutOfBoundsException: String index out of range: 1
+	at java.lang.String.charAt(String.java:694)
+	at Shatranj.squareToPos(Shatranj.java:525)
+	at Shatranj.readMove(Shatranj.java:561)
+	at Shatranj.parsePGN(Shatranj.java:801)
+	at Shatranj.main(Shatranj.java:905)
+Could not read a valid move !
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p . N b . .
+. p P P P n . B
+P B . . . P P P
+. P . . . . . .
+R N . Q R . . K
+
+token: 39.
+token: Kd2
+readMove : Kd2 [ WHITE ]
+P: 6 , 3
+Piece : 5 6 : PAWN WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 2 6 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 3 5 : BISHOP BLACK
+Piece : 5 5 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 7 4 : KING WHITE
+6 3
+VALID : => 6 3 : 
+Move Read 63
+src_x :7
+src_y :4
+dest_x:6
+dest_y:3
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p . N b . .
+. p P P P n . B
+P B . . . P P P
+. P . R . . . .
+R N . Q . . . K
+
+token: Kb5
+readMove : Kb5 [ BLACK ]
+P: 3 , 1
+Piece : 5 6 : PAWN WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 2 6 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 6 3 : KING WHITE
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 3 5 : BISHOP BLACK
+Piece : 5 5 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+0 5
+1 3
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 4 : BISHOP BLACK
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 0 7 : ROOK BLACK
+Piece : 4 5 : KNIGHT BLACK
+Could not make a valid move to sqaure Kb5for playerBLACK
+Could not read a valid move !
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p . N b . .
+. p P P P n . B
+P B . . . P P P
+. P . R . . . .
+R N . Q . . . K
+
+token: 40.
+token: Rd6
+readMove : Rd6 [ WHITE ]
+P: 2 , 3
+Piece : 5 6 : PAWN WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+6 7
+7 6
+7 5
+7 4
+Piece : 3 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+6 0
+Piece : 2 0 : PAWN BLACK
+Piece : 2 6 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 6 3 : KING WHITE
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 3 5 : BISHOP BLACK
+Piece : 5 5 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 4 : BISHOP BLACK
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+6 4
+5 4
+7 5
+7 6
+Piece : 0 7 : ROOK BLACK
+Piece : 4 5 : KNIGHT BLACK
+Could not make a valid move to sqaure Rd6for playerWHITE
+Could not read a valid move !
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p . N b . .
+. p P P P n . B
+P B . . . P P P
+. P . R . . . .
+R N . Q . . . K
+
+token: Kc5
+readMove : Kc5 [ BLACK ]
+P: 3 , 2
+Piece : 5 6 : PAWN WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 2 6 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 6 3 : KING WHITE
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 3 5 : BISHOP BLACK
+Piece : 5 5 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+0 5
+1 3
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 4 : BISHOP BLACK
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 0 7 : ROOK BLACK
+Piece : 4 5 : KNIGHT BLACK
+Could not make a valid move to sqaure Kc5for playerBLACK
+Could not read a valid move !
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p . N b . .
+. p P P P n . B
+P B . . . P P P
+. P . R . . . .
+R N . Q . . . K
+
+token: 41.
+token: Ra6
+readMove : Ra6 [ WHITE ]
+P: 2 , 0
+Piece : 5 6 : PAWN WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+6 7
+7 6
+7 5
+7 4
+Piece : 3 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+6 0
+Piece : 2 0 : PAWN BLACK
+Piece : 2 6 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 6 3 : KING WHITE
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 3 5 : BISHOP BLACK
+Piece : 5 5 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 4 : BISHOP BLACK
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+6 4
+5 4
+7 5
+7 6
+Piece : 0 7 : ROOK BLACK
+Piece : 4 5 : KNIGHT BLACK
+Could not make a valid move to sqaure Ra6for playerWHITE
+Could not read a valid move !
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p . N b . .
+. p P P P n . B
+P B . . . P P P
+. P . R . . . .
+R N . Q . . . K
+
+token: Nf2
+readMove : Nf2 [ BLACK ]
+P: 6 , 5
+Piece : 5 6 : PAWN WHITE
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 2 6 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 6 3 : KING WHITE
+Piece : 2 3 : PAWN BLACK
+Piece : 6 1 : PAWN WHITE
+Piece : 3 5 : BISHOP BLACK
+Piece : 5 5 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 4 : BISHOP BLACK
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+1 3
+2 2
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 0 7 : ROOK BLACK
+Piece : 4 5 : KNIGHT BLACK
+5 7
+5 3
+3 7
+3 3
+6 6
+6 4
+2 4
+Could not make a valid move to sqaure Nf2for playerBLACK
+Could not read a valid move !
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p . N b . .
+. p P P P n . B
+P B . . . P P P
+. P . R . . . .
+R N . Q . . . K
+
+token: 42.
+token: g4
+readMove : g4 [ WHITE ]
+P: 4 , 6
+Piece : 5 6 : PAWN WHITE
+4 6
+VALID : => 4 6 : 
+Move Read 46
+src_x :5
+src_y :6
+dest_x:4
+dest_y:6
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p . N b . .
+. p P P P n P B
+P B . . . P . P
+. P . R . . . .
+R N . Q . . . K
+
+token: Bd3
+readMove : Bd3 [ BLACK ]
+P: 5 , 3
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+Piece : 3 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+Piece : 2 0 : PAWN BLACK
+Piece : 2 6 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 6 3 : KING WHITE
+Piece : 2 3 : PAWN BLACK
+Piece : 4 6 : PAWN WHITE
+Piece : 6 1 : PAWN WHITE
+Piece : 3 5 : BISHOP BLACK
+2 4
+1 3
+0 2
+4 4
+4 6
+Piece : 5 5 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 4 : BISHOP BLACK
+0 5
+2 5
+3 6
+4 7
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+Piece : 0 7 : ROOK BLACK
+Piece : 4 5 : KNIGHT BLACK
+Could not make a valid move to sqaure Bd3for playerBLACK
+Could not read a valid move !
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p . N b . .
+. p P P P n P B
+P B . . . P . P
+. P . R . . . .
+R N . Q . . . K
+
+token: 43.
+token: Re6
+readMove : Re6 [ WHITE ]
+P: 2 , 4
+Piece : 3 4 : KNIGHT WHITE
+Piece : 7 3 : QUEEN WHITE
+Piece : 5 0 : PAWN WHITE
+Piece : 3 4 : PAWN BLACK
+Piece : 4 4 : PAWN WHITE
+Piece : 7 7 : ROOK WHITE
+6 7
+7 6
+7 5
+7 4
+Piece : 3 2 : PAWN BLACK
+Piece : 7 0 : ROOK WHITE
+6 0
+Piece : 2 0 : PAWN BLACK
+Piece : 2 6 : PAWN BLACK
+Piece : 4 3 : PAWN WHITE
+Piece : 0 0 : ROOK BLACK
+Piece : 6 3 : KING WHITE
+Piece : 2 3 : PAWN BLACK
+Piece : 4 6 : PAWN WHITE
+Piece : 6 1 : PAWN WHITE
+Piece : 3 5 : BISHOP BLACK
+Piece : 5 5 : PAWN WHITE
+Piece : 2 7 : PAWN BLACK
+Piece : 7 1 : KNIGHT WHITE
+Piece : 0 4 : KING BLACK
+Piece : 1 5 : PAWN BLACK
+Piece : 0 3 : QUEEN BLACK
+Piece : 5 1 : BISHOP WHITE
+Piece : 1 4 : BISHOP BLACK
+Piece : 4 2 : PAWN WHITE
+Piece : 4 7 : BISHOP WHITE
+Piece : 7 7 : KING WHITE
+Piece : 0 1 : KNIGHT BLACK
+Piece : 4 1 : PAWN BLACK
+Piece : 5 7 : PAWN WHITE
+Piece : 7 4 : ROOK WHITE
+6 4
+5 4
+7 5
+7 6
+Piece : 0 7 : ROOK BLACK
+Piece : 4 5 : KNIGHT BLACK
+Could not make a valid move to sqaure Re6for playerWHITE
+Could not read a valid move !
+
+r n . q k . . r
+. . . . b p . .
+p . . p . . p p
+. . p . N b . .
+. p P P P n P B
+P B . . . P . P
+. P . R . . . .
+R N . Q . . . K
+
+NumMoves: 43:
+0:
+Player: PAWNPosition: ( 6 , 4 )
+PieceID: 21
+Move To: ( 4 , 4 )
+
+0:
+Player: PAWNPosition: ( 1 , 4 )
+PieceID: 13
+Move To: ( 3 , 4 )
+
+
+1:
+Player: KNIGHTPosition: ( 7 , 6 )
+PieceID: 31
+Move To: ( 5 , 5 )
+
+1:
+Player: KNIGHTPosition: ( 0 , 1 )
+PieceID: 2
+Move To: ( 2 , 2 )
+
+
+2:
+Player: BISHOPPosition: ( 7 , 5 )
+PieceID: 30
+Move To: ( 3 , 1 )
+
+2:
+Player: PAWNPosition: ( 1 , 0 )
+PieceID: 9
+Move To: ( 2 , 0 )
+
+
+3:
+Player: BISHOPPosition: ( 3 , 1 )
+PieceID: 30
+Move To: ( 4 , 0 )
+
+3:
+Player: KNIGHTPosition: ( 0 , 6 )
+PieceID: 7
+Move To: ( 2 , 5 )
+
+
+4:
+java.lang.NullPointerException
+	at Shatranj.parsePGN(Shatranj.java:845)
+	at Shatranj.main(Shatranj.java:905)
+Exception Encountered
