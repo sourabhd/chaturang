@@ -1,0 +1,1 @@
+Project to provide all chess-variants. Coded in java and targeted as an Android app.
